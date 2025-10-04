@@ -218,6 +218,8 @@ arakkonam.html
 </body>
 </html>
 
+```
+
 # OUTPUT
 ![alt text](<Screenshot 2025-10-04 104331.png>)
 ![alt text](<Screenshot 2025-10-04 104456.png>)
@@ -226,7 +228,6 @@ arakkonam.html
 ![alt text](<Screenshot 2025-10-04 104701.png>)
 ![alt text](<Screenshot 2025-10-04 104840.png>)
 
-```
 
 
 # RESULT
