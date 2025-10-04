@@ -24,6 +24,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -224,6 +225,8 @@ arakkonam.html
 ![alt text](<Screenshot 2025-10-04 104602.png>)
 ![alt text](<Screenshot 2025-10-04 104701.png>)
 ![alt text](<Screenshot 2025-10-04 104840.png>)
+
+```
 
 
 # RESULT
